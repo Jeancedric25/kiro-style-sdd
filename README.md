@@ -224,7 +224,7 @@ This repository is a collection of prompts. To contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+GNU GENERAL PUBLIC LICENSE
 
 ## Support
 
